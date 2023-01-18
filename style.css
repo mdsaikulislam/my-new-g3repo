@@ -1,0 +1,255 @@
+/* main header */
+.container{
+    width: 1920px;
+    height: 1440px;
+    left: 1px;
+    top: -45px;
+    background: rgba(255, 144, 14, 0.1);
+}
+.head-tt{
+    padding: 95px 670px 0px 227px;
+}
+.head-info{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+.head-deatils{
+    display: flex;
+    color: #424242
+    text-align: center;
+    padding: 108px 240px 0px 0px ;
+    
+}
+.head-para{
+    margin-left: 20px;
+}
+.title-container{
+
+    text-align: center;
+    padding: ;
+}
+
+.head-title{
+   
+    text-align: center;
+    color: #131313;
+    padding: 100px 530px 33px;
+}
+.head-title-bar{
+    font-weight: 700;
+font-size: 64px;
+color: #131313;
+}
+.buttons{
+  background-color: 
+  #FF900E;
+  border-radius: 8px;
+  text-align: center;
+}
+.paragrap-btn{
+    font-weight: 600;
+font-size: 20px;
+color: #FFFFFF;
+}
+.images{
+padding: 50px 241px 130px 239px;
+}
+/* future */
+.future-container{
+    text-align: center;
+    display: flex;
+}
+.imagrs-future{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.future-info{
+    width: 537px;
+    margin-top: 332px;
+margin-left: 73px;
+}
+.future-list{
+    color: 
+    #727272;
+}
+.fitire-ff{
+    color: #FF900E;
+}
+.image-1{
+    padding: 130px 24px 24px 301px;
+}
+.image-2{
+    padding: 130px 24px 24px 24px;
+}
+.image-3{
+    padding: 0px 24px 130px 301px;
+}
+.image-4{
+    padding: 0px 0px 130px 24px;
+}
+.btn-future{
+    background: #FF900E;
+    border-radius: 8px;
+}
+.btn-title{
+    color:  #FFFFFF;
+    font-weight: 600;
+font-size: 20px;
+}
+/* love */
+.love-container{
+    width: 1440px;
+    height: 1059px;
+    left: 240px;
+    top: 2245px; 
+    display: flex;
+}
+.title-lov{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+}
+.title-bar-info{
+    font-weight: 400;
+font-size: 16px;
+}
+.love-title{
+    width: 586px;
+height: 982px;
+padding: 169px 54px 168px 240px;
+}
+.image-articl{
+    width: 600px;
+height: 759px;
+margin-top: 130px;
+
+}
+.btn-lov{
+   background-color: #FF900E;
+   margin-top: -300px;
+   border-radius: 8px;
+   width: 160px;
+   height: 80px;
+}
+.btn-detail{
+    color: #FFFFFF;
+}
+/* fact bar */
+.fact-title{
+    font-weight: 700;
+font-size: 45px;
+padding: 0px 1422px 24px 240px;
+}
+.fact-para{
+    padding: 0px 1138px 100px 240px;
+    color: #727272;
+}
+.font-bar{
+    display: flex;
+}
+.award-head{
+    width: 241.83px;
+height: 241.83px;
+border: 1px solid #FF900E;
+border-radius: 8px;
+margin-top: 108px;
+margin-right: 124px;
+margin-bottom: 108px;
+margin-left: 240px;
+}
+.project-head{
+    width: 241.83px;
+    height: 241.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    margin-top: 108px;
+    margin-right: 124px;
+    margin-bottom: 108px;
+    margin-left: 0px;
+}
+.cline-head{
+    width: 241.83px;
+    height: 241.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    margin-top: 108px;
+    margin-right: 124px;
+    margin-bottom: 108px;
+    margin-left: 0px;
+    
+}
+.contact-head{
+    width: 241.83px;
+    height: 241.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    margin-top: 108px;
+    margin-right: 209px;
+    margin-bottom: 108px;
+    margin-left: 0px;
+}
+.info-para{
+    width: 169px;
+height: 136.22px;
+padding: 45px 36px 59px 35px;
+align-items: center;
+}
+.fa-award{
+    color: #FF900E;
+  
+
+}
+.fa-r-project{
+color: #4d43dc;
+}
+.fa-window-maximize{
+color: #FF900E;
+}
+.fa-envelope{
+    color: #FF900E;
+}
+.our-head{
+    text-align: center;
+}
+.our-title{
+    font-weight: 700;
+font-size: 45px;
+color: #131313;
+}
+.our-para{
+    font-weight: 400;
+font-size: 16px;
+color: #727272;
+}
+/* footer bar */
+.fotter-contain{
+    display: flex;
+}
+.fotter-1{
+padding: 50px 155px 130px 240px;
+}
+.fotter-2{
+padding: 50px 155px 130px 0px;
+}
+.fotter-3{
+    padding: 50px 155px 130px 0px;
+    color: #424242;
+}
+.fotter-4{
+    padding: 50px 155px 130px 0px;
+    }
+.fotter-5{
+        padding: 50px 155px 130px 0px;
+}
+.foote-end{
+    width: 1440px;
+    height: 100px;
+    text-align: center;
+    background: #FFF4E7;
+    border-radius: 8px;
+}
+.footer-end-p{
+    padding: 39px 410px;
+}
